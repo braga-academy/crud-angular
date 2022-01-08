@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Headphone preto",
+      "price": 240.8
+    },
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 1280.5
+    },
+    {
+      "id": 3,
+      "name": "Celular",
+      "price": 790.99
+    },
+    {
+      "name": "Headphone preto",
+      "price": 240.8,
+      "id": 4
+    }
+  ]
+}
